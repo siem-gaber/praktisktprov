@@ -1,3 +1,5 @@
+#author: Siem Gaber
+#date: 2023-10-12
 print("Ei22 - praktiskt prov ht23")
 
 Rtot = int(input("Hur många resistorer har du ? "))
